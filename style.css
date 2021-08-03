@@ -1,0 +1,49 @@
+h1{
+    color: #eee;
+    font-family: 'Style Script', cursive;
+    font-size: xxx-large
+}
+body{
+    background-color:#eee;
+    font-family: 'Lora', serif;
+    margin: 0px;
+}
+img{
+    border: 3px solid #600068;
+}
+p{
+/* font-family: tahoma, sans-seriftahoma; trebuchet ms, Impact, . 'Arial Narrow Bold'*/
+    font-weight: italic;
+}
+
+.menu{
+    padding: 2px;
+    background-color:#600068;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px
+}
+.origami{
+   
+    background-color: #dddddd;
+    margin: 5px;
+    padding: 25px;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color:#dddddd;
+    font-size: x-large;
+    text-emphasis: none;
+    text-decoration: none;
+    padding:20px
+}
